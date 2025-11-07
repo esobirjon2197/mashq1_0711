@@ -18,7 +18,7 @@ for i in range(1, 10):
     sum += i
     if sum >= 20:
         break
-print(i)
+print(sum)
 
 
 # 4-m
@@ -27,6 +27,6 @@ for i in range(1, 21):
     kop *= i
     if kop >= 10000:
         break
-print(i)
+print(kop)
 
 
