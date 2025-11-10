@@ -27,6 +27,6 @@ for i in range(1, 21):
     kop *= i
     if kop >= 10000:
         break
-   print(kop)
+print(kop)
 
 
